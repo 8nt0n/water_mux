@@ -9,6 +9,15 @@ sometimes you need to multiplex water... yeah water... <br>
 4. 1 output is high, one is low -> stackable mux for like 3€ per unit boom price undercuts i become entrepeneaur and shii
 
 ## 🥅 goal
-undercut commercial options, make a cheap, stackable flexible output water multiplexer, and become a water-entrepreneur.
+undercut commercial options, make a cheap, stackable flexible output water multiplexer, and become a water-entrepreneur. <br> <br>
+any more quetsions? yeah:
+<br>
+## 👷 how do i make my own water mux?
 
-any more quetsions?
+### bill of materials
+- 1x 6g 180° servo
+- like 5g of pla filament
+- flexible plastic tubes
+
+### how to build
+still figuring that one out 
