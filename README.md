@@ -21,3 +21,4 @@ any more quetsions? yeah:
 
 ### how to build
 still figuring that one out 
+update: those 9g servos are WEAK as shit, what do you mean your motor cant bend a little tiny tube huh?
