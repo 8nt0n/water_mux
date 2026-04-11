@@ -21,4 +21,4 @@ any more quetsions? yeah:
 
 ### how to build
 still figuring that one out 
-update: those 9g servos are WEAK as shit, what do you mean your motor cant bend a little tiny tube huh?
+update: those 9g servos are WEAK as shit, what do you mean your motor cant bend a little tiny tube huh? mg90s are on the way but itll take some time for them to arrive, this will increase project costs by roughly 20ct per channel
