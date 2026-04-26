@@ -23,3 +23,4 @@ any more quetsions? yeah:
 still figuring that one out 
 update: those 9g servos are WEAK as shit, what do you mean your motor cant bend a little tiny tube huh? mg90s are on the way but itll take some time for them to arrive, this will increase project costs by roughly 20ct per channel
 - boom mg90s arrived, strong af (please dont let the gearbox wear out this time)
+update: f*** ** there are food save Peristaltic pumps for 3€ MAKE A ARRAY OF THOSE FOR LIKE WAY LESS AND JUST CONNECT THE INPUTS (couldve thought about that earlier)?
